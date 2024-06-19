@@ -56,7 +56,7 @@ Implementa um cliente para interagir com o servidor de gerenciamento de livros. 
 
 Este cliente facilita a interação com o servidor de gerenciamento de livros, permitindo operações simples e eficazes através de uma interface de linha de comando.
 
-## A classe BookParser
+## A Classe BookParser
 
 É a que facilita a conversão de objetos `Book` para strings JSON e vice-versa, usando a biblioteca Gson para serialização e desserialização.
 
